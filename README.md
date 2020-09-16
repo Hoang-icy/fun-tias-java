@@ -1,9 +1,13 @@
-Fun programming problems/projects I want to try.
+This repository contains fun programming problems I want to try;
+Some of them come from "Cracking the Coding Interview 6th Edition" by Gayle Laakmann McDowell.
 
---------------------------------------------------
+--------------
 
 ## NIM:
-A 2-player zero-sum game against the computer using Minimax algorithm. 
+A 2-player zero-sum game against the computer
+
+Implemented using Minimax algorithm. 
+
 ### Original Nim Game:
 Starting with a pile of 13 coins
 
