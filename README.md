@@ -1,6 +1,9 @@
 # fun-tias-java
 Fun programming problems/projects I want to try.
 The first one is a homework assignment from my Data Structure course: a 2-player zero-sum game against the computer using Minimax algorithm. 
+
+# NIM:
+
 ## Original Nim Game:
 Starting with a pile of 13 coins
 
